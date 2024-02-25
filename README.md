@@ -14,6 +14,8 @@
 
 [6] 董岳, 丁明涛, 李鑫泷, 张雪松, 黄武彪, 刘振江, 李振洪. 基于光学遥感像素偏移量的金沙江流域2018年白格滑坡演变过程[J]. 地球科学与环境学报, 2022, 44(06): 1002-1015. https://doi.org/10.19814/j.jese.2022.05025. (Dong, Y., Ding, M.T., Li, X.L., Zhang, X.S., Huang, W.B., Liu, Z.J., Li, Z.H. Evolution of the 2018 Baige Landslides Revealed by Optical Remote Sensing Pixel Offsets in Jinsha River Basin, China[J]. Journal of Earth Science and Environment, 2022, 44(6): 1002-1015. https://doi.org/10.19814/j.jese.2022.05025.)
 
+[7] Li, Y., Ding, M., Zhang, Q., Luo, Z., Huang, W., Zhang, C., Jiang, H. Old Landslide Detection Using Optical Remote Sensing Images Based on Improved YOLOv8. Applied Sciences. 2024, 14, 1100. https://doi.org/10.3390/app14031100.
+
 ### 本科
 [1] 黄武彪, 栾海军, 李大成. 基于时空融合技术的森林火灾遥感动态监测[J]. 自然灾害学报, 2022, 31(01): 265-76. https://doi.org/10.13577/j.jnd.2022.0125. (Huang, W.B., Luan, H.J., Li D.C., Remote sensing dynamic monitoring of forest fire based on spatiotemporal fusion technology[J]. Journal of natural disasters, 2022, 31(01): 265-76. https://doi.org/10.13577/j.jnd.2022.0125.)
 
