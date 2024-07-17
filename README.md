@@ -22,6 +22,10 @@
 
 
 ## 主页
+### Personal Pages
+https://huangwbill.github.io/ (updated recently🔥)
+### Google Scholar
+https://scholar.google.com/citations?user=ucut0gEAAAAJ
 ### ResearchGate
 Wubiao Huang (https://www.researchgate.net/profile/Wubiao-Huang)
 ### Aminer
