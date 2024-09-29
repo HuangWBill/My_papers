@@ -31,4 +31,4 @@ https://scholar.google.com/citations?user=ucut0gEAAAAJ
 ### ResearchGate
 Wubiao Huang (https://www.researchgate.net/profile/Wubiao-Huang)
 ### Aminer
-Wubiao Huang (黄武彪) (https://www.aminer.cn/user/scholar)
+Wubiao Huang (黄武彪) (https://www.aminer.cn/profile/wubiao-huang/64bd23b2ede217000101ee83)
