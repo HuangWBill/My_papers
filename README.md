@@ -10,7 +10,7 @@
 
 [4] Huang, W., Ding, M., Li, Z., Yu, J., Ge, D., Liu, Q., Yang, J. Landslide susceptibility mapping and dynamic response along the Sichuan-Tibet transportation corridor using deep learning algorithms. Catena. 2023, 222. https://doi.org/10.1016/j.catena.2022.106866.
 
-[5] Yang, J., Ding, M., Huang, W., Li, Z., Zhang, Z., Wu, J., Peng, J. A Generalized Deep Learning-based Method for Rapid Co-seismic Landslide Mapping. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2024, 1-14. https://doi.org/10.1109/JSTARS.2024.3457766.
+[5] Yang, J., Ding, M., Huang, W., Li, Z., Zhang, Z., Wu, J., Peng, J. A Generalized Deep Learning-based Method for Rapid Co-seismic Landslide Mapping. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2024, 17, 16970-16983. https://doi.org/10.1109/JSTARS.2024.3457766.
 
 [6] 陈博, 李振洪, 黄武彪, 刘振江, 张成龙, 杜建涛, 宋闯, 丁明涛, 朱武, 张双成, 王建伟, 彭建兵. 2022年四川泸定Mw6.6级地震诱发地质灾害空间分布及影响因素 [J]. 地球科学与环境学报, 2022, 44(06): 971-985.  https://doi.org/10.19814/j.jese.2022.10012. (Chen, B., Li, Z.H., Huang, W.B., Liu, Z.J., Zhang, C.L., Du, J.T., Song, C., Ding, M.T., Zhu, W., Zhang, S.C., Wang, J.W., Peng, J.B. Spatial Distribution and Influencing Factors of Geohazards Induced by the 2022 Mw6.6 Luding (Sichuan, China) Earthquake[J]. Journal of Earth Science and Environment, 2022, 44(6): 971-985. https://doi.org/10.19814/j.jese.2022.10012.)
 
