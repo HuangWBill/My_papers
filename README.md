@@ -31,7 +31,7 @@
 
 ## 主页
 ### Personal Pages
-https://huangwbill.github.io/ (updated recently🔥)
+https://huangwbill.github.io/WubiaoHuang/ (updated recently🔥)
 ### Google Scholar
 https://scholar.google.com/citations?user=ucut0gEAAAAJ
 ### ResearchGate
