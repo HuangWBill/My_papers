@@ -5,7 +5,7 @@
 #### 遥感语义分割
 [1] Huang, W., Ding, M., Deng, F. Domain-Incremental Learning for Remote Sensing Semantic Segmentation With Multifeature Constraints in Graph Space. IEEE Transactions on Geoscience and Remote Sensing. 2024, 62, 1-15. https://doi.org/10.1109/TGRS.2024.3481875.
 
-[2] Huang, W., Deng, F., Liu, H., Ding, M., Yao Q., Multi-Scale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization. IEEE Transactions on Geoscience and Remote Sensing. 2025. https://doi.org/10.1109/TGRS.2025.3553524.
+[2] Huang, W., Deng, F., Liu, H., Ding, M., Yao Q., Multiscale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization. IEEE Transactions on Geoscience and Remote Sensing. 2025, 63, 1-13. https://doi.org/10.1109/TGRS.2025.3553524.
 
 #### 滑坡易发性制图
 [1] Huang, W., Ding, M., Li, Z., Yu, J., Ge, D., Liu, Q., Yang, J. Landslide susceptibility mapping and dynamic response along the Sichuan-Tibet transportation corridor using deep learning algorithms. Catena. 2023, 222. https://doi.org/10.1016/j.catena.2022.106866.
