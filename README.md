@@ -33,6 +33,10 @@
 
 [2] 李振洪, 王建伟, 胡羽丰, 朱武, 付鑫, 张双成, 余琛, 王乐, 张驰, 杜建涛, 黄武彪, 吕夏合, 张成龙, 陈博, 刘旭旭, 岳雨晴. 大范围洪涝灾害影响下的交通网受损快速评估[J]. 武汉大学学报（信息科学版）, 2023, 48(7): 1039-1049. https://doi.org/10.13203/j.whugis20220512. (Li, Z.H., Wang, J.W., Hu, Y.F., Zhu, W., Fu, X., Zhang, S.C., Yu, C., Wang, L., Zhang, C., Du, J.T., Huang, W.B., Lv, X.H., Zhang, C.L., Chen, B., Liu, X.X., Yue, Y.Q. Rapid Assessment of Traffic Inefficiency Under Flood Scenarios over Wide Regions[J]. Geomatics and Information Science of Wuhan University, 2023, 48(7): 1039-1049. https://doi.org/10.13203/j.whu‑gis20220512.)
 
+#### 点云语义分割
+[1] Li, H., Huang, W., Liu, J., Chen, K., Deng, F.. Grid Point Serialized Transformer for LiDAR Point Cloud Semantic Segmentation in Various Densities and Heights Scenes. IEEE Transactions on Geoscience and Remote Sensing. 2025, 63, 1-15. https://doi.org/10.1109/TGRS.2025.3617326
+
+
 ## 主页
 ### Personal Pages
 https://huangwbill.github.io/ (updated recently🔥)
